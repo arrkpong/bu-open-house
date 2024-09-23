@@ -1,0 +1,18 @@
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.hero-section {
+    background-color: #fff;
+    background-size: cover;
+    background-position: center;
+}
+
+.highlights-section .icon i {
+    color: #007bff;
+}
+
+.navbar-brand img.logo {
+    margin-right: 10px;
+}
+

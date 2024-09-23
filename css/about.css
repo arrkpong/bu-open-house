@@ -1,0 +1,15 @@
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.highlights-section .icon i {
+    color: #007bff;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+footer {
+    margin-top: auto;
+}
