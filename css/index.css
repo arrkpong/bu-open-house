@@ -1,7 +1,4 @@
-.logo{
-    width: 50px;
-    height: 50px;
-}
+/*css\index.css*/
 .hero-section {
     background-color: #fff;
     background-size: cover;
@@ -14,5 +11,20 @@
 
 .navbar-brand img.logo {
     margin-right: 10px;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+#content-placeholder {
+    flex-grow: 1;
+}
+
+footer {
+    margin-top: 180px;
 }
 
